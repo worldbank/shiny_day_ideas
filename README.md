@@ -4,8 +4,7 @@ Living document to organize ideas for an upcoming Shiny day at the Bank
 ## Things to define
 
 ### Date:
-- Would be great to make it before the end of the calendar year
-- Do we think we would get more traction from holding this as part of data day? If so, is there any date in mind for data day? 
+February 2021 (as part of data day)
 
 ### Scope: 
 - [ ] Shiny only
