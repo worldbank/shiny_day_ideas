@@ -1,17 +1,10 @@
-# shiny_day_ideas
+# Shiny Day ideas
 Living document to organize ideas for an upcoming Shiny day at the Bank
 
 ## Things to define
 
 ### Date:
 February 2021 (as part of data day)
-
-### Scope: 
-- [ ] Shiny only
-- [ ] Dashboards (R, Python) 
-- [ ] Delivering data products to clients??
-
-- A Shiny only focus may be easier to manage and structure. A couple of sessions on other solutions could be added, but the main focus would stay on Shiny
   
 ### Content / type of sessions:
 - Focus on general staff/TTLs: showcase existing uses of shiny within the Bank and how projects can use this tool. Possibly a ligthning talks kind of format? 
