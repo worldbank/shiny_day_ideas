@@ -18,7 +18,7 @@ Good to have the users of the apps presenting as well, and not only the develope
 ## Random ideas
 
 ### Sequential workshops
-Sequential series of Shiny development workshop
+Sequential series of Shiny development workshop building a client-focused use case based on Bank data
 * Beginners: very basic
 * Intermediate: adding some functionalities
 * Advanced: customize layout
