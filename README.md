@@ -18,10 +18,10 @@ Good to have the users of the apps presenting as well, and not only the develope
 ## Random ideas
 
 ### Sequential workshops
-To appeal to a broad range of R users, we could have a sequential series of Shiny development workshop:
-* Beginners
-* Intermediate
-* Advanced
+Sequential series of Shiny development workshop
+* Beginners: very basic
+* Intermediate: adding some functionalities
+* Advanced: customize layout
 * Shiny in production (How to structure a Shiny app that will hold the test of time - golem framework)
 
 ### Sharing apps and use cases
