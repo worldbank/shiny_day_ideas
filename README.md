@@ -17,6 +17,7 @@ Showcase existing uses of shiny within the Bank and how projects can use this to
    - Creating a live COVID19 dashboard (Div?)
    - Mapping app in FCV country context (Fabian)
    - Helping allocate Bank resources in Madagascar (Taka & Sasha)
+   - From prototype to production in minutes: RstudioConnect (Tony)
 
 ## For R users
 Sequential series of Shiny development workshop building a client-focused use case based on Bank data
