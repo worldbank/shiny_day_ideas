@@ -14,6 +14,9 @@ Showcase existing uses of shiny within the Bank and how projects can use this to
    - Allow clients to interact with data (DIME has a few examples)
    - Sampling (Michael Wild)
    - Share information within teams (DIME has a couple of examples)
+   - Creating a live COVID19 dashboard (Div?)
+   - Mapping app in FCV country context (Fabian)
+   - Helping allocate Bank resources in Madagascar (Taka & Sasha)
 
 ## For R users
 Sequential series of Shiny development workshop building a client-focused use case based on Bank data
@@ -24,7 +27,12 @@ Sequential series of Shiny development workshop building a client-focused use ca
 * Advanced: customize layout
 
 ### Led by RStudio
-* Shiny in production (How to structure a Shiny app that will hold the test of time - golem framework)
+* Shiny in production (How to structure a Shiny app that will hold the test of time - golem framework)  
+  - Analytics in RstudioConnect: Number of views, unique visits, locations, etc.
+  - Best Shiny debugging practices
+  - best practice to optimize dashboard and make them faster
+  - Shiny application examples in developing countries and other international organizations
+  
 
 # Random ideas
 
