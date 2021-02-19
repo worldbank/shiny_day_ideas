@@ -44,7 +44,8 @@ Having a space (Microsoft teams??) for Shiny developers to share their apps in p
 
 # To discuss with RStudio
 - [ ] Can we use the material available in https://shiny.rstudio.com/tutorial/?
-If we can, I think the sessions led by us can be basically a walk-through the materials, with some instructors online to answer questions and help people. This seems easy to scale up depending on the number of people registered.
+  - If we can, I think the sessions led by us can be basically a walk-through the materials, with some instructors online to answer questions and help people. This seems easy to scale up depending on the number of people registered.
+  - Brian says: "we're happy for you to use the materials on shiny.rstudio.com with the request to please not copy the materials."
 - [ ] Can we use RStudio Cloud for the trainings?
 
 # To discuss among us
