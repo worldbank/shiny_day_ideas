@@ -53,3 +53,15 @@ Having a space (Microsoft teams??) for Shiny developers to share their apps in p
   - Example of dashboards to showcase on lightning talks
   - Topics for the RStudio lecture on production
   - Whether they want to be added to a Microsoft teams group of WB R Users -- used to share examples of dashboards and send announcements on the Bank's servers
+
+# Shiny Day schedule
+## Day 1: 04/28
+- 9.30am to 11.45am: Beginners workshop
+- noon to 1.15am: Lightning talks
+- 1.30pm to 3.45pm: Intermediate workshop
+
+## Day 2: 04/29
+- 9.30am to 11.45am: Advanced workshop - Styling
+- noon to 1.15am: Rstudio keynote on Shiny in production
+- 1.30pm to 3.45pm: Adcanced workshop - Shiny in production (Maintenance and speed).  
+  The idea of this one would basically be to review and put in practice the main points of the keynote
