@@ -18,6 +18,7 @@ Showcase existing uses of shiny within the Bank and how projects can use this to
    - Mapping app in FCV country context (Fabian)
    - Helping allocate Bank resources in Madagascar (Taka & Sasha)
    - From prototype to production in minutes: RstudioConnect (Tony)
+   - Police traffic reports (Rob)
 
 ## For R users
 Sequential series of Shiny development workshop building a client-focused use case based on Bank data
@@ -67,3 +68,22 @@ Having a space (Microsoft teams??) for Shiny developers to share their apps in p
 - noon to 1.15am: Rstudio keynote on Shiny in production
 - 1.30pm to 3.45pm: Advanced workshop - Shiny in production (Maintenance and speed).  
   The idea of this one would basically be to review and put in practice the main points of the keynote
+  
+  
+# Workshops content
+## Shiny in production
+### Is my Shiny app ready for production?
+How do I know?
+* Load-testing
+How do I fix it?
+* Profiling
+### Performance
+Rule #1: Move data processing out of your Shiny app
+Rule #2: Use efficient file formats
+  1. Small .csv
+  2. Large .csv (Profile)
+  3. .fst (benchmarck)
+  4. Larger file (does not fit in memory)
+  5. Arrow, partitionning + dplyr
+Rule #3: Do heavy computations only once (caching)
+### organization and Maintenance
