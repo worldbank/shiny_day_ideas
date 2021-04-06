@@ -87,3 +87,10 @@ Rule #2: Use efficient file formats
   5. Arrow, partitionning + dplyr
 Rule #3: Do heavy computations only once (caching)
 ### organization and Maintenance
+
+# Resource and references
+Following up with links to some of the things we talked about: 
+* Runtime settings: https://docs.rstudio.com/connect/user/content-settings/#content-runtime
+* Shiny async: https://rstudio.github.io/promises/articles/shiny.html
+* shinyloadtest: https://rstudio.github.io/shinyloadtest/
+* Shiny app performance: https://shiny.rstudio.com/articles/#performance 
